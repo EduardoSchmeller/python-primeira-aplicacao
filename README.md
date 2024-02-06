@@ -28,7 +28,7 @@ Este repositório contém o projeto desenvolvido durante o curso de Python Web d
 
 Este projeto, concentrado no arquivo `app.py`, foi desenvolvido como parte do curso de Python Web da Alura. Ele representa a aplicação prática de conceitos fundamentais, proporcionando um programa funcional e modular para o gerenciamento de restaurantes. Sinta-se à vontade para explorar, contribuir ou fornecer feedback!
 
-![image](https://github.com/EduardoSchmeller/python-primeira-aplicacao/assets/93481364/40d8687b-b67c-49bd-8327-478431693ce9)
+![image](https://github.com/EduardoSchmeller/python-primeira-aplicacao/assets/93481364/063c98ac-68df-4b00-874c-380a46ee00b1)
 
 
 [Eduardo Aparecido Rodrigues Schmeller - Curso Python_ crie a sua primeira aplicação - Alura.pdf](https://github.com/EduardoSchmeller/python-primeira-aplicacao/files/14174122/Eduardo.Aparecido.Rodrigues.Schmeller.-.Curso.Python_.crie.a.sua.primeira.aplicacao.-.Alura.pdf)
